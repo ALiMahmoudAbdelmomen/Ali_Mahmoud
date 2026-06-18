@@ -1,102 +1,212 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Ali%20Abdelmomen&fontSize=50&fontColor=e94560&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence&descAlignY=58&descSize=18&descColor=a8b2d8" />
 
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
-
-</details>
-
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
 </div>
 
-<hr></hr>
+<div align="center">
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
-![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alimahmoud01)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alimahmoud6935@gmail.com)
+[![Location](https://img.shields.io/badge/📍_Giza,_Egypt-6th_of_October-2ea44f?style=for-the-badge)](https://maps.google.com/?q=6th+of+October+Giza+Egypt)
+[![Phone](https://img.shields.io/badge/📞_+20_1159814132-Call-gray?style=for-the-badge)](tel:+201159814132)
 
-```dart
-// tools_I_use organized
+</div>
 
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite", "PostgreSql" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
-  };
-}
+---
+
+## 👨‍💻 About Me
+
+> *Results-driven Data Analyst with a B.Sc. in Computer Science — I turn raw, messy data into clear insights that drive real business decisions.*
+
+I design **end-to-end data pipelines**, build **KPI dashboards**, and deliver **BI reports** that convert numbers into strategy. With experience across ETL, statistical analysis, predictive modeling, and data storytelling, I've helped 5+ clients across business and engineering sectors cut reporting turnaround by ~40%.
+
+```text
+🔍  Analytical Mindset    ██████████████████░░  90%
+📊  Data Visualization    ████████████████████  100%
+🐍  Python / Pandas       ███████████████░░░░░  75%
+🗄️  SQL                   ████████████████░░░░  80%
+📈  Power BI              ████████████████████  100%
+📋  Excel / DAX           ████████████████████  100%
 ```
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+---
 
-<div align="center" >
-<a  href="https://github.com/SP-XD">
+## 🛠️ Tech Stack
 
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<div align="center">
 
-</a>
+### 📊 BI & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+### 🐍 Programming & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-</details>
-  
-<hr></hr>
+### 🗄️ Databases & Query
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-**Code Cycle**<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
-
-
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
+### ⚙️ Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-285F4F?style=for-the-badge&logo=microsoft&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 </div>
 
+---
+
+## 🚀 Featured Projects
+
+### 🚗 Uber Auto Annual Performance Dashboard — Power BI
+> *Full-scale market performance analysis for operations leadership*
+
+| Metric | Value |
+|--------|-------|
+| 💰 Total Annual Revenue | **$76.23M** |
+| 🚗 Total Distance Analyzed | **3.65M km** |
+| 🎫 Total Rides | **150K** |
+| ❌ Lost Rides (Opportunity) | **57K** |
+| 🏆 Top Revenue Category | **Auto — $19M** |
+
+**Key Outcomes:**
+- 🗺️ Mapped high-demand geographic hubs (e.g., Adarsh Nagar) to optimize driver allocation
+- 🎯 Flagged 57K lost rides as a critical untapped revenue opportunity
+- 📌 Enabled targeted driver retention and acquisition strategies
+
+---
+
+### 📦 Sales Performance Dashboard — Power BI
+> *Single source of truth for sales leadership across 2020–2023*
+
+| Metric | Value |
+|--------|-------|
+| 💵 Total Sales Tracked | **$33.9M** |
+| 🧾 Tax Revenue | **$2.93M** |
+| 📦 Order Quantities | **86K** |
+| 📝 Order Records | **23.6K** |
+
+**Category Breakdown:**
+```
+Bikes       ████████████████████████████  $27M  (80%)
+Components  ████████                       $5M  (15%)
+Clothing    ██                             $1M   (5%)
+```
+
+**Key Outcomes:**
+- ⏱️ Time-series analysis across 4 years → more accurate quarterly forecasting
+- 📊 Identified seasonal demand peaks and growth spikes
+- 🎯 Redirected sales focus toward highest-margin categories
+
+---
+
+### 🇸🇦 QIMAM Saudi Arabia Operations Dashboard — Excel
+> *Consolidated KPI tracking across multi-province service operations*
+
+| KPI | Value |
+|-----|-------|
+| 📋 Total Service Requests | **1,152** |
+| ✅ Total Paid | **562,097 SAR** |
+| 📂 Open Quotations | **482,761 SAR** |
+| ⏳ Pending Items | **79,336 SAR** |
+
+**Key Outcomes:**
+- 📍 Exposed provincial performance gaps: Riyadh (130,675 SAR) vs. Najran (70,127 SAR)
+- 📅 Monthly payment trends surfaced for March (89,758 SAR) & April (70,668 SAR)
+- ✅ Increased completion rates across Advertising (544) and Financial (608) services
+
+---
+
+### 🛒 E-Commerce Financial Insights Dashboard — Excel
+> *Multi-market financial intelligence across 3 years of operations*
+
+| Metric | Value |
+|--------|-------|
+| 📦 Units Sold | **1.8M** |
+| 🌍 Markets Covered | **5 International** |
+| 📊 Product Lines | **6** |
+| 💰 Profit Insights Surfaced | **$28.9M** |
+| 📅 Period | **2013–2015** |
+
+**Key Outcomes:**
+- 📈 Identified high-impact seasonal demand cycles across 5 markets
+- 🏷️ Informed dynamic pricing models and inventory replenishment strategy
+
+---
+
+## 💼 Professional Experience
+
+```
+📅 Jan 2026 – Present
+💼 Data Analyst | Freelance – Multiple Clients
+📍 Remote
+```
+
+- 🔧 Architected end-to-end data pipelines for **5+ clients** across business and engineering sectors → **~40% reduction** in reporting turnaround
+- 📊 Engineered automated Excel dashboards with **Power Query + DAX** → eliminated manual weekly reporting cycles
+- 🐍 Developed **Python automation scripts** (Pandas, NumPy) for data preprocessing and validation
+- 📈 Designed and published **3+ interactive Power BI dashboards** enabling self-service analytics for non-technical decision-makers
+- 🤝 Conducted structured **requirements-gathering sessions** → zero revision cycles on final deliverables
+
+---
+
+## 🎓 Education & Certifications
+
+```
+🎓  B.Sc. Computer Science
+    Thebes Academy, Maadi | 2020 – 2024
+
+🪖  Military Service (Mandatory Duty)
+    Discipline · Decision-making · Team Leadership | 2024 – 2025
+
+📜  Introduction to Data Science
+    Cisco Networking Academy | Apr 2026
+
+📜  Data Analytics Essentials
+    Cisco Networking Academy | Mar 2026
+```
+
+---
+
+## 🧠 Core Analytics Competencies
+
+<div align="center">
+
+| Analytics Type | Description |
+|---|---|
+| 🔍 **Descriptive** | What happened? — KPIs, dashboards, reports |
+| 🔎 **Diagnostic** | Why did it happen? — Root cause, drill-downs |
+| 🔮 **Predictive** | What will happen? — Forecasting, modeling |
+| 🎯 **Prescriptive** | What should we do? — Recommendations, optimization |
+
+</div>
+
+---
+
+## 🌐 Languages
+
+```
+🇦🇪  Arabic    ████████████████████  Native
+🇬🇧  English   ████████████████░░░░  Professional Working Proficiency
+```
+
+---
+
+<div align="center">
+
+### 💬 Let's Build Something Data-Driven
+
+*Open to freelance projects, full-time roles, and collaboration opportunities.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Message_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alimahmoud01)
+[![Email](https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alimahmoud6935@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" />
+
+</div>
