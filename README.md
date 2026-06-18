@@ -4,7 +4,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 <details>
-<p><strong> <summary> 📊 Busy Analyzing & Vibing to : </summary> </strong></p>
+<p><strong> <summary> 📊 Data Analyst  : </summary> </strong></p>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/Ali_Mahmoud)
 
@@ -38,10 +38,10 @@
 ```python
 # tools_I_use organized
 
-class About(AliAbdelmomen):
+class About(Ali_Abdelmomen):
     my_tools = {
         "BI & Visualization" : { "Power BI", "Excel (Power Query, Power Pivot, Power View)" },
-        "Languages"          : { "Python", "SQL", "DAX", "M Query", "Markdown" },
+        "Languages"          : { "Python", "SQL", "DAX" },
         "Python Libraries"   : { "Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-learn" },
         "Databases"          : { "MySQL", "SQL Server" },
         "Analytics"          : { "Descriptive", "Diagnostic", "Predictive", "Prescriptive" },
