@@ -1,212 +1,87 @@
-<div align="center">
+<div align="center" width="50">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Ali%20Abdelmomen&fontSize=50&fontColor=e94560&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence&descAlignY=58&descSize=18&descColor=a8b2d8" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
-</div>
+<details>
+<p><strong> <summary> 📊 Busy Analyzing & Vibing to : </summary> </strong></p>
 
-<div align="center">
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/Ali_Mahmoud)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alimahmoud01)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alimahmoud6935@gmail.com)
-[![Location](https://img.shields.io/badge/📍_Giza,_Egypt-6th_of_October-2ea44f?style=for-the-badge)](https://maps.google.com/?q=6th+of+October+Giza+Egypt)
-[![Phone](https://img.shields.io/badge/📞_+20_1159814132-Call-gray?style=for-the-badge)](tel:+201159814132)
+</details>
 
-</div>
-
----
-
-## 👨‍💻 About Me
-
-> *Results-driven Data Analyst with a B.Sc. in Computer Science — I turn raw, messy data into clear insights that drive real business decisions.*
-
-I design **end-to-end data pipelines**, build **KPI dashboards**, and deliver **BI reports** that convert numbers into strategy. With experience across ETL, statistical analysis, predictive modeling, and data storytelling, I've helped 5+ clients across business and engineering sectors cut reporting turnaround by ~40%.
-
-```text
-🔍  Analytical Mindset    ██████████████████░░  90%
-📊  Data Visualization    ████████████████████  100%
-🐍  Python / Pandas       ███████████████░░░░░  75%
-🗄️  SQL                   ████████████████░░░░  80%
-📈  Power BI              ████████████████████  100%
-📋  Excel / DAX           ████████████████████  100%
-```
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 📊 BI & Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### 🐍 Programming & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 🗄️ Databases & Query
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### ⚙️ Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-285F4F?style=for-the-badge&logo=microsoft&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Ali_Mahmoud&style=flat&color=orange&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/Ali_Abdelmomen-blue?style=flat&logo=linkedin)](https://linkedin.com/in/Ali_Mahmoud)
+[![Gmail](https://img.shields.io/badge/alimahmoud6935@gmail.com-grey?style=flat&logo=gmail)](mailto:alimahmoud6935@gmail.com) <br>
 
 </div>
 
----
+<hr>
 
-## 🚀 Featured Projects
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
-### 🚗 Uber Auto Annual Performance Dashboard — Power BI
-> *Full-scale market performance analysis for operations leadership*
+```python
+# tools_I_use organized
 
-| Metric | Value |
-|--------|-------|
-| 💰 Total Annual Revenue | **$76.23M** |
-| 🚗 Total Distance Analyzed | **3.65M km** |
-| 🎫 Total Rides | **150K** |
-| ❌ Lost Rides (Opportunity) | **57K** |
-| 🏆 Top Revenue Category | **Auto — $19M** |
-
-**Key Outcomes:**
-- 🗺️ Mapped high-demand geographic hubs (e.g., Adarsh Nagar) to optimize driver allocation
-- 🎯 Flagged 57K lost rides as a critical untapped revenue opportunity
-- 📌 Enabled targeted driver retention and acquisition strategies
-
----
-
-### 📦 Sales Performance Dashboard — Power BI
-> *Single source of truth for sales leadership across 2020–2023*
-
-| Metric | Value |
-|--------|-------|
-| 💵 Total Sales Tracked | **$33.9M** |
-| 🧾 Tax Revenue | **$2.93M** |
-| 📦 Order Quantities | **86K** |
-| 📝 Order Records | **23.6K** |
-
-**Category Breakdown:**
-```
-Bikes       ████████████████████████████  $27M  (80%)
-Components  ████████                       $5M  (15%)
-Clothing    ██                             $1M   (5%)
+class About(AliAbdelmomen):
+    my_tools = {
+        "BI & Visualization" : { "Power BI", "Excel (Power Query, Power Pivot, Power View)" },
+        "Languages"          : { "Python", "SQL", "DAX", "M Query", "Markdown" },
+        "Python Libraries"   : { "Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-learn" },
+        "Databases"          : { "MySQL", "SQL Server" },
+        "Analytics"          : { "Descriptive", "Diagnostic", "Predictive", "Prescriptive" },
+        "Other Tools"        : { "Git", "Jupyter Notebook", "MS Office Suite" },
+        "Soft Skills"        : { "Stakeholder Presentations", "Requirements Gathering", "Data Storytelling" }
+    }
 ```
 
-**Key Outcomes:**
-- ⏱️ Time-series analysis across 4 years → more accurate quarterly forecasting
-- 📊 Identified seasonal demand peaks and growth spikes
-- 🎯 Redirected sales focus toward highest-margin categories
-
----
-
-### 🇸🇦 QIMAM Saudi Arabia Operations Dashboard — Excel
-> *Consolidated KPI tracking across multi-province service operations*
-
-| KPI | Value |
-|-----|-------|
-| 📋 Total Service Requests | **1,152** |
-| ✅ Total Paid | **562,097 SAR** |
-| 📂 Open Quotations | **482,761 SAR** |
-| ⏳ Pending Items | **79,336 SAR** |
-
-**Key Outcomes:**
-- 📍 Exposed provincial performance gaps: Riyadh (130,675 SAR) vs. Najran (70,127 SAR)
-- 📅 Monthly payment trends surfaced for March (89,758 SAR) & April (70,668 SAR)
-- ✅ Increased completion rates across Advertising (544) and Financial (608) services
-
----
-
-### 🛒 E-Commerce Financial Insights Dashboard — Excel
-> *Multi-market financial intelligence across 3 years of operations*
-
-| Metric | Value |
-|--------|-------|
-| 📦 Units Sold | **1.8M** |
-| 🌍 Markets Covered | **5 International** |
-| 📊 Product Lines | **6** |
-| 💰 Profit Insights Surfaced | **$28.9M** |
-| 📅 Period | **2013–2015** |
-
-**Key Outcomes:**
-- 📈 Identified high-impact seasonal demand cycles across 5 markets
-- 🏷️ Informed dynamic pricing models and inventory replenishment strategy
-
----
-
-## 💼 Professional Experience
-
-```
-📅 Jan 2026 – Present
-💼 Data Analyst | Freelance – Multiple Clients
-📍 Remote
-```
-
-- 🔧 Architected end-to-end data pipelines for **5+ clients** across business and engineering sectors → **~40% reduction** in reporting turnaround
-- 📊 Engineered automated Excel dashboards with **Power Query + DAX** → eliminated manual weekly reporting cycles
-- 🐍 Developed **Python automation scripts** (Pandas, NumPy) for data preprocessing and validation
-- 📈 Designed and published **3+ interactive Power BI dashboards** enabling self-service analytics for non-technical decision-makers
-- 🤝 Conducted structured **requirements-gathering sessions** → zero revision cycles on final deliverables
-
----
-
-## 🎓 Education & Certifications
-
-```
-🎓  B.Sc. Computer Science
-    Thebes Academy, Maadi | 2020 – 2024
-
-🪖  Military Service (Mandatory Duty)
-    Discipline · Decision-making · Team Leadership | 2024 – 2025
-
-📜  Introduction to Data Science
-    Cisco Networking Academy | Apr 2026
-
-📜  Data Analytics Essentials
-    Cisco Networking Academy | Mar 2026
-```
-
----
-
-## 🧠 Core Analytics Competencies
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm currently working on **end-to-end data pipelines for multiple clients**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I love turning **messy raw data into clear business decisions**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Power BI, SQL, Python, or Data Analysis in general**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Reach me via email: **[alimahmoud6935@gmail.com](mailto:alimahmoud6935@gmail.com)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp; Fun fact: A well-built dashboard can save a team **hundreds of hours** per year. <br>
 
 <div align="center">
+<a href="https://github.com/Ali_Mahmoud">
 
-| Analytics Type | Description |
-|---|---|
-| 🔍 **Descriptive** | What happened? — KPIs, dashboards, reports |
-| 🔎 **Diagnostic** | Why did it happen? — Root cause, drill-downs |
-| 🔮 **Predictive** | What will happen? — Forecasting, modeling |
-| 🎯 **Prescriptive** | What should we do? — Recommendations, optimization |
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
-</div>
+</a>
 
----
+<details>
+  <summary>More stats</summary>
 
-## 🌐 Languages
+<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
 
-```
-🇦🇪  Arabic    ████████████████████  Native
-🇬🇧  English   ████████████████░░░░  Professional Working Proficiency
-```
+</details>
 
----
+<hr>
 
-<div align="center">
+**Data Cycle** 🔄<br>
 
-### 💬 Let's Build Something Data-Driven
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Raw messy data!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Clean & modeled!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="Insights that actually work!"/><br>
 
-*Open to freelance projects, full-time roles, and collaboration opportunities.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Message_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alimahmoud01)
-[![Email](https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alimahmoud6935@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" />
+<sub>Raw messy data &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clean & modeled &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Insights that drive decisions</sub>
 
 </div>
